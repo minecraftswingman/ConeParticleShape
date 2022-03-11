@@ -1,0 +1,4 @@
+name: hypotrochoid
+version: '${project.version}'
+main: com.plugin.particles.particlesdesign.ConeClass
+api-version: 1.18
